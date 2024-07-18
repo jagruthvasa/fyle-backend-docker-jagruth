@@ -105,12 +105,16 @@ To exit the Docker container, use one of the following methods:
 
 **Note:** Using `Ctrl + C` will not work to exit the container shell.
 
+## Test Coverage 📊
+
+![Screenshot 2024-07-17 154517](https://github.com/user-attachments/assets/3d5a0c61-8de8-4f22-ae81-d9bb186d44fd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📬 Postman Collection
 
-Access the Postman collection for API testing: [Fyle Assignment Collection](https://www.postman.com/aviation-architect-34779856/workspace/fyle-backend-jagruth/request/36467777-e845ed4f-f8c0-49b8-9e41-dd5aabd9f00f?action=share&creator=36467777&ctx=documentation).
+Acces![Uploading Screenshot 2024-07-17 154517.png…]()
+s the Postman collection for API testing: [Fyle Assignment Collection](https://www.postman.com/aviation-architect-34779856/workspace/fyle-backend-jagruth/request/36467777-e845ed4f-f8c0-49b8-9e41-dd5aabd9f00f?action=share&creator=36467777&ctx=documentation).
 
 
 <!-- CONTACT -->
